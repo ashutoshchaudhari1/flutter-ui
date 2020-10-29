@@ -1,6 +1,7 @@
 # app1
 
-A new Flutter project.
+A new Flutter project ui.
+![full ui](https://user-images.githubusercontent.com/59803185/97620005-f24b8300-1a46-11eb-9fc9-46031225bfb6.JPG)
 
 ## Getting Started
 
